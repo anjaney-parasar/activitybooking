@@ -3,8 +3,7 @@ import json
 from pprint import pprint
 conn = http.client.HTTPSConnection("vgtechdemo.com")
 
-searchId=98
-actcode="E-E10-A9SUNO0024"
+
 def fetchactdetails(searchId, actcode):
     payload =f"""{{
         "searchId":"{searchId}",
@@ -20,7 +19,7 @@ def fetchactdetails(searchId, actcode):
     res = conn.getresponse()
     data = res.read()
     res=json.loads(data.decode("utf-8"))
-    pprint(res)
+    # pprint(res)
     result={}
     try:
         actPriceArr=res['data'][0]['activityPriceArray'][0]

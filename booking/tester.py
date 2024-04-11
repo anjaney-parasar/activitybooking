@@ -5,5 +5,6 @@ from fetchactdetails import fetchactdetails
 # print("Search ID is", searchId)
 
 # def fetchactdetails(searchId, actcode):
-print(fetchactdetails(112, "E-E10-A9SUNO0024"))
+actdetails=fetchactdetails(112, "E-E10-A9SUNO0024")
+print(actdetails)
 
