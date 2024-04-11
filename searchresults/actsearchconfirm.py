@@ -44,7 +44,10 @@ def webhook():
                                   "action": {
                                     "message": {
                                       "type": "training",
-                                      "command": ""
+                                      "command": "",
+                                      "parameters":{
+                                        "totalpeople": total_people
+                                      }
                                     }
                                   },
                                   "title": "Yes"

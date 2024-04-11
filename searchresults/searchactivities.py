@@ -23,6 +23,8 @@ def searchactivities(city,startDate,endDate,adults,children,ages):
   res = conn.getresponse()
   data = res.read()
   data=json.loads(data.decode("utf-8"))
+  searchId=data['data'][0]['searchId']
   activity_list=data['data'][0]['activityList']
 
-  return activity_list
+
+  return activity_list,searchId

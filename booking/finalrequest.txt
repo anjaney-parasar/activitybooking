@@ -1,0 +1,83 @@
+{'detectIntentResponseId': '1de8c66e-aecd-47c0-b8fb-909ad0bbe478',
+ 'fulfillmentInfo': {'tag': 'It books the activity'},
+ 'languageCode': 'en',
+ 'languageInfo': {},
+ 'pageInfo': {'currentPage': 'projects/travel-chatbot-409605/locations/us-central1/agents/ad7caede-bce6-4562-ae2f-8dacfb73bddf/flows/38ab63df-27e4-4e6c-87f9-d46f1c14d337/pages/db28dd64-fc20-4aab-a63f-828515eafea5',
+              'displayName': 'Booking Confirmation Message'},
+ 'payload': {'fields': {}},
+ 'sessionInfo': {'parameters': {'activityCode': 'E-E10-A9SUNO0035',
+                                'activityName': 'Marhaba Bronze: Meet and '
+                                                'Greet at Terminal 1 and 3',
+                                'activity_destination': 'Dubai,United Arab '
+                                                        'Emirates',
+                                'activitydescription': 'Marhaba is an '
+                                                       'exclusive '
+                                                       'meet-and-greet service '
+                                                       'that makes the airport '
+                                                       'something to look '
+                                                       'forward to—for you, '
+                                                       'your clients, or your '
+                                                       'loved ones. From '
+                                                       'fast-track clearance '
+                                                       'through arrivals or '
+                                                       'departures to helping '
+                                                       'with transfers, '
+                                                       'baggage, and family '
+                                                       'travel, ensure a '
+                                                       'swift, smooth, and '
+                                                       'safe passage through '
+                                                       'the airport. Even '
+                                                       'lounges are reserved '
+                                                       'exclusively for '
+                                                       'Marhaba customers. '
+                                                       'Whether you’re '
+                                                       'traveling alone or '
+                                                       'with your family, on a '
+                                                       'business trip or a '
+                                                       'holiday, we’ll make '
+                                                       'sure you’re well '
+                                                       'looked after and your '
+                                                       'journey gets off to a '
+                                                       'smooth start. Bronze '
+                                                       'Meet and Greet is '
+                                                       'designed for frequent '
+                                                       'travelers to '
+                                                       'fast-track through '
+                                                       'immigration.\n'
+                                                       '\n'
+                                                       'Highlights:\n'
+                                                       '- Meet and greet '
+                                                       'before immigration\n'
+                                                       '- Fast-track through '
+                                                       'check-in, immigration, '
+                                                       'and security\n'
+                                                       '- An escort right to '
+                                                       'the meeting point in '
+                                                       'the arrivals hall (for '
+                                                       'arrivals)\n'
+                                                       '\n'
+                                                       'Languages\n'
+                                                       'English speaking '
+                                                       'assistant',
+                                'activityimg': 'https://media.activitiesbank.com/50029/ENG/XL/Marhaba%20Staff_0008.jpg',
+                                'activityprice': 66846.92,
+                                'adults': '2',
+                                'ages': '',
+                                'bcBotId': '66119c7f95978c0008fab976',
+                                'bcCurrentUrl': {'origin': 'https://portal.botcopy.com',
+                                                 'path': '/bot/66119c7f95978c0008fab976/branding',
+                                                 'url': 'https://portal.botcopy.com/bot/66119c7f95978c0008fab976/branding'},
+                                'bcTime': '2:31:43 PM',
+                                'bcTimeZone': 'Asia/Calcutta',
+                                'child_fullname_1': 'Anavika Parasar',
+                                'child_fullname_2': 'Urudhuv Parasar',
+                                'children': '2',
+                                'duration': '1 DAYS',
+                                'email': 'parasaranjaney@gmail.com',
+                                'end-date': '2024-04-13',
+                                'fullname_1': 'Anjaney Parasar',
+                                'fullname_2': 'Gunnu Parasar',
+                                'searchId': 110.0,
+                                'start-date': '2024-04-09'},
+                 'session': 'projects/travel-chatbot-409605/locations/us-central1/agents/ad7caede-bce6-4562-ae2f-8dacfb73bddf/sessions/aed15150-84df-b3d8-f7fd-bb9be1d69ce6'},
+ 'triggerEvent': 'Submit'}

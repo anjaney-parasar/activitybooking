@@ -1,5 +1,5 @@
 from flask import Flask, request
-from searchdestination import searchdestination
+from destinationsearch.searchdestination import searchdestination
 
 app=Flask(__name__)
 
